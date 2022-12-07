@@ -1,4 +1,4 @@
-def calculate_frequencies(file_contents):
+def calculate_frequencies(file_contents): #comentarios
     punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
     uninteresting_words = [ "la", "y", "de", "en"]
     
